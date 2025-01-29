@@ -1,6 +1,6 @@
 # PNG to BMP Converter
 
-PNG to BMP Converter allows you to easily convert PNG images to BMP format. You can preview the files, add more, or remove any unnecessary ones. The converter ensures high image quality during the process. If needed, you can also choose other output formats. Once the conversion is complete, download your new BMP files effortlessly.
+PNG to BMP Converter allows you to easily convert PNG images to BMP format. You can preview the files, add more, or remove any unnecessary ones. The converter ensures high image quality during the process. Once the conversion is complete, download your new BMP files effortlessly.
 
 Live Demo:- [PNG to BMP Converter](https://prepphint.com/png-to-bmp/)
 
